@@ -1,2 +1,2 @@
 # hello-world
-Primeiro repositório usado como tutorial para o GitHub
+Primeiro repositorio usado como tutorial para o GitHub
